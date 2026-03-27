@@ -93,14 +93,6 @@ After obtaining segmentation masks from RGB-D images, the segmented depth result
 
 ![Point Cloud Segmentation](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/0fb74830-da11-4623-b90b-e2e9660a0ede)
 
-## Manuscript
-
-This repository also contains the manuscript source and figures:
-
-- `sn-article.tex`
-- `sn-article.pdf`
-- `images/`
-
 ## Citation
 
 If you find this work helpful, please cite our related work:
