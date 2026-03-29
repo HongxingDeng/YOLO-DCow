@@ -42,7 +42,7 @@ Compared with YOLOv8-n, the proposed method improved AP by **1.5%**. Compared wi
 - After filtering, **1739 images** were used for training and testing:
   - **1391** for training
   - **348** for testing
-- The data involved in this study can be downloaded from **Baidu Netdisk**: https://pan.baidu.com/s/1RxbL348GZMVVLdrfIJsT2g?pwd=7iin (extraction code: `7iin`); if you would like to obtain the dataset in another way, please contact `denghongxing890@gmail.com` for the download link.
+- The data involved in this study can be downloaded from **Baidu Netdisk**: https://pan.baidu.com/s/1RxbL348GZMVVLdrfIJsT2g; if you would like to obtain the dataset in another way, please contact `hongxingdeng666@gmail.com` for the download link.
 ## Code Organization
 
 The code for different stages is maintained in different branches.
